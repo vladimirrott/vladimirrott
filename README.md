@@ -13,5 +13,5 @@ From the mathematics of quantum scattering to AI in production. I work where the
 
 **Links**
 
-- 📄 [Bohmian insights into mathematical scattering theory](https://scholar.google.com/citations?view_op=view_citation&hl=nl&user=j9hleIYAAAAJ&cstart=20&pagesize=80&sortby=pubdate&citation_for_view=j9hleIYAAAAJ:uLbwQdceFCQC), which closed an open problem: whether the Bohmian interpretation of quantum mechanics can be reconciled with experiments.
+- 📄 [Bohmian insights into mathematical scattering theory](https://fse.studenttheses.ub.rug.nl/25657/), which closed an open problem: whether the Bohmian interpretation of quantum mechanics can be reconciled with experiments.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vladimir-rotariu-87081622b/)
