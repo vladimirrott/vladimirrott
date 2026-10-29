@@ -1,10 +1,10 @@
-# Recounts the stars behind the "stars on my repos" badge once a day and commits badges/stars.json when the number
+# Recounts the stars behind the "stars on my repos" badge every hour and commits badges/stars.json when the number
 # changes. shields.io reads that file through its endpoint badge.
 name: stars
 
 on:
   schedule:
-    - cron: "17 5 * * *"
+    - cron: "17 * * * *"
   workflow_dispatch:
 
 permissions:

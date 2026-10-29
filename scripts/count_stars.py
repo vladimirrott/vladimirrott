@@ -18,7 +18,7 @@ import sys
 import urllib.request
 from pathlib import Path
 
-OWNERS = [("users", "vladimirrott"), ("orgs", "lacs-project")]
+OWNERS = [("users", "vladimirrott"), ("orgs", "lacs-project"), ("orgs", "loopgepa")]
 OUT = Path(__file__).resolve().parents[1] / "badges" / "stars.json"
 
 
