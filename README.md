@@ -6,7 +6,7 @@
 
 From the mathematics of quantum scattering to AI in production. I work where the math is the hard part: machine learning, quantitative finance, zero-knowledge proofs, and digital twins, with full-stack development around them.
 
-[![Stars on my repositories](https://img.shields.io/github/stars/vladimirrott?affiliations=OWNER,ORGANIZATION_MEMBER&style=flat-square&label=stars%20on%20my%20repos&logo=github)](https://github.com/vladimirrott?tab=repositories&sort=stargazers)
+[![Stars on my repositories](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fvladimirrott%2Fvladimirrott%2Fmain%2Fbadges%2Fstars.json)](https://github.com/vladimirrott?tab=repositories&sort=stargazers)
 
 ## Open source I maintain
 
@@ -21,14 +21,19 @@ From the mathematics of quantum scattering to AI in production. I work where the
 [![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/lacs-project/sysknife/badge)](https://scorecard.dev/viewer/?uri=github.com/lacs-project/sysknife)
 [![Good first issues](https://img.shields.io/github/issues/lacs-project/sysknife/good%20first%20issue?style=flat-square&label=good%20first%20issues&color=7057ff)](https://github.com/lacs-project/sysknife/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
-**[claude-math](https://github.com/vladimirrott/claude-math)**: renders math legibly in the Claude Code and Codex terminals, with Unicode glyphs in place of raw LaTeX.
+**[mojo-dllm](https://github.com/vladimirrott/mojo-dllm)**: local inference for diffusion language models such as LLaDA and Dream, written in Mojo.
 
-[![Stars](https://img.shields.io/github/stars/vladimirrott/claude-math?style=flat-square&logo=github)](https://github.com/vladimirrott/claude-math)
-[![npm downloads](https://img.shields.io/npm/dt/claude-math?style=flat-square&logo=npm&label=npm)](https://www.npmjs.com/package/claude-math)
+[![Stars](https://img.shields.io/github/stars/vladimirrott/mojo-dllm?style=flat-square&logo=github)](https://github.com/vladimirrott/mojo-dllm)
+[![Release](https://img.shields.io/github/v/release/vladimirrott/mojo-dllm?style=flat-square)](https://github.com/vladimirrott/mojo-dllm/releases)
+[![Help wanted](https://img.shields.io/github/issues/vladimirrott/mojo-dllm/help%20wanted?style=flat-square&label=help%20wanted&color=7057ff)](https://github.com/vladimirrott/mojo-dllm/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
-Also mine: [maintainer-agent](https://github.com/vladimirrott/maintainer-agent), the unattended maintainer that reviews and gates pull requests on SysKnife; [mojo-dllm](https://github.com/vladimirrott/mojo-dllm), local inference for diffusion language models in Mojo; and [patton-protocol](https://github.com/vladimirrott/patton-protocol), a skills package for bounded coding-agent missions.
+New contributors are welcome on SysKnife and mojo-dllm. The good first issues and help-wanted issues above are scoped so you can finish one without knowing the codebase.
 
-New contributors are welcome on SysKnife. The good first issues above are scoped so you can finish one without knowing the codebase.
+Also mine:
+
+- [claude-math](https://github.com/vladimirrott/claude-math): renders math legibly in the Claude Code and Codex terminals, with Unicode glyphs in place of raw LaTeX.
+- [maintainer-agent](https://github.com/vladimirrott/maintainer-agent): the unattended maintainer that reviews pull requests and keeps the issue tracker on SysKnife. It approves a change only against proof that a guard bites.
+- [patton-protocol](https://github.com/vladimirrott/patton-protocol): a hook for Claude Code and Codex that asks before a coding agent changes a file that existed when the session started, tested in pre-registered studies across ten agent harnesses.
 
 **Education**
 
