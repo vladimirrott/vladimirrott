@@ -42,5 +42,5 @@ Also mine:
 
 **Links**
 
-- 📄 [Bohmian insights into mathematical scattering theory](https://fse.studenttheses.ub.rug.nl/25657/), which closed an open problem: whether the Bohmian interpretation of quantum mechanics can be reconciled with experiments.
+- 📄 [Bohmian insights into mathematical scattering theory](https://fse.studenttheses.ub.rug.nl/25657/1/bMATH_2021_RotariuVI.pdf), which closed an open problem: whether the Bohmian interpretation of quantum mechanics can be reconciled with experiments.
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vladimir-rotariu-87081622b/)
