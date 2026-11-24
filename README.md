@@ -27,6 +27,7 @@ From the mathematics of quantum scattering to AI in production. I work where the
 [![Forks](https://img.shields.io/github/forks/dllm-labs/mojo-dllm?style=flat-square&logo=github)](https://github.com/dllm-labs/mojo-dllm/forks)
 [![Contributors](https://img.shields.io/github/contributors/dllm-labs/mojo-dllm?style=flat-square)](https://github.com/dllm-labs/mojo-dllm/graphs/contributors)
 [![Release](https://img.shields.io/github/v/release/dllm-labs/mojo-dllm?style=flat-square)](https://github.com/dllm-labs/mojo-dllm/releases)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/dllm-labs/mojo-dllm/badge)](https://scorecard.dev/viewer/?uri=github.com/dllm-labs/mojo-dllm)
 [![CI](https://img.shields.io/github/actions/workflow/status/dllm-labs/mojo-dllm/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/dllm-labs/mojo-dllm/actions/workflows/ci.yml)
 [![Docs](https://img.shields.io/github/actions/workflow/status/dllm-labs/mojo-dllm/docs.yml?branch=main&style=flat-square&label=docs)](https://dllm-labs.github.io/mojo-dllm/)
 [![License](https://img.shields.io/github/license/dllm-labs/mojo-dllm?style=flat-square)](https://github.com/dllm-labs/mojo-dllm/blob/main/LICENSE)
