@@ -2,7 +2,7 @@
 
 **Senior AI Engineer** · Ex-ING · Full-stack developer
 
-> Temporary account. My original is [@vladimirrotariu](https://github.com/vladimirrotariu), with contributions to PyTorch, SurrealDB, Opik, and more.
+> Temporary account. My original is [@vladimirrotariu](https://github.com/vladimirrotariu) ([activity on OSS Insight](https://ossinsight.io/analyze/vladimirrotariu)), with contributions to PyTorch, SurrealDB, Opik, and more.
 
 From the mathematics of quantum scattering to AI in production. I work where the math is the hard part: machine learning, quantitative finance, zero-knowledge proofs, and digital twins, with full-stack development around them.
 
