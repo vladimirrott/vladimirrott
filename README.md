@@ -24,7 +24,14 @@ From the mathematics of quantum scattering to AI in production. I work where the
 **[mojo-dllm](https://github.com/dllm-labs/mojo-dllm)**: local inference for diffusion language models such as LLaDA and Dream, written in Mojo.
 
 [![Stars](https://img.shields.io/github/stars/dllm-labs/mojo-dllm?style=flat-square&logo=github)](https://github.com/dllm-labs/mojo-dllm)
+[![Forks](https://img.shields.io/github/forks/dllm-labs/mojo-dllm?style=flat-square&logo=github)](https://github.com/dllm-labs/mojo-dllm/forks)
+[![Contributors](https://img.shields.io/github/contributors/dllm-labs/mojo-dllm?style=flat-square)](https://github.com/dllm-labs/mojo-dllm/graphs/contributors)
 [![Release](https://img.shields.io/github/v/release/dllm-labs/mojo-dllm?style=flat-square)](https://github.com/dllm-labs/mojo-dllm/releases)
+[![CI](https://img.shields.io/github/actions/workflow/status/dllm-labs/mojo-dllm/ci.yml?branch=main&style=flat-square&label=ci)](https://github.com/dllm-labs/mojo-dllm/actions/workflows/ci.yml)
+[![Docs](https://img.shields.io/github/actions/workflow/status/dllm-labs/mojo-dllm/docs.yml?branch=main&style=flat-square&label=docs)](https://dllm-labs.github.io/mojo-dllm/)
+[![License](https://img.shields.io/github/license/dllm-labs/mojo-dllm?style=flat-square)](https://github.com/dllm-labs/mojo-dllm/blob/main/LICENSE)
+[![Last commit](https://img.shields.io/github/last-commit/dllm-labs/mojo-dllm?style=flat-square)](https://github.com/dllm-labs/mojo-dllm/commits/main)
+[![Good first issues](https://img.shields.io/github/issues/dllm-labs/mojo-dllm/good%20first%20issue?style=flat-square&label=good%20first%20issues&color=7057ff)](https://github.com/dllm-labs/mojo-dllm/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 [![Help wanted](https://img.shields.io/github/issues/dllm-labs/mojo-dllm/help%20wanted?style=flat-square&label=help%20wanted&color=7057ff)](https://github.com/dllm-labs/mojo-dllm/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
 New contributors are welcome on SysKnife and mojo-dllm. The good first issues and help-wanted issues above are scoped so you can finish one without knowing the codebase.
