@@ -31,6 +31,10 @@ From the mathematics of quantum scattering to AI in production. I work where the
 [![Docs](https://img.shields.io/github/actions/workflow/status/dllm-labs/mojo-dllm/docs.yml?branch=main&style=flat-square&label=docs)](https://dllm-labs.github.io/mojo-dllm/)
 [![License](https://img.shields.io/github/license/dllm-labs/mojo-dllm?style=flat-square)](https://github.com/dllm-labs/mojo-dllm/blob/main/LICENSE)
 [![Last commit](https://img.shields.io/github/last-commit/dllm-labs/mojo-dllm?style=flat-square)](https://github.com/dllm-labs/mojo-dllm/commits/main)
+[![Commit activity](https://img.shields.io/github/commit-activity/m/dllm-labs/mojo-dllm?style=flat-square&label=commits)](https://github.com/dllm-labs/mojo-dllm/graphs/commit-activity)
+[![Open issues](https://img.shields.io/github/issues/dllm-labs/mojo-dllm?style=flat-square&label=issues)](https://github.com/dllm-labs/mojo-dllm/issues)
+[![Pull requests](https://img.shields.io/github/issues-pr/dllm-labs/mojo-dllm?style=flat-square&label=pull%20requests)](https://github.com/dllm-labs/mojo-dllm/pulls)
+[![Repo size](https://img.shields.io/github/repo-size/dllm-labs/mojo-dllm?style=flat-square&label=repo%20size)](https://github.com/dllm-labs/mojo-dllm)
 [![Good first issues](https://img.shields.io/github/issues/dllm-labs/mojo-dllm/good%20first%20issue?style=flat-square&label=good%20first%20issues&color=7057ff)](https://github.com/dllm-labs/mojo-dllm/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 [![Help wanted](https://img.shields.io/github/issues/dllm-labs/mojo-dllm/help%20wanted?style=flat-square&label=help%20wanted&color=7057ff)](https://github.com/dllm-labs/mojo-dllm/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22)
 
